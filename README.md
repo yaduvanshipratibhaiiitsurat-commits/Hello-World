@@ -1,2 +1,4 @@
-# Hello-World
-checking the flow of work
+#include<stdio.h>
+int main() {
+   printf("Hello World");
+   }
